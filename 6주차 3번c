@@ -1,0 +1,36 @@
+
+#include<stdio.h>
+int main()
+{
+	char season;
+	printf("계절을 선택할 알파벳 입력: ");
+	scanf_s("%c", &season);
+	switch (season)
+	{
+	case 65:
+	case 97:
+		printf("계절: 봄\n");
+		printf("수행: 꽃을 가꾼다");
+		break;
+	case 83:
+	case 115:
+		printf("계절: 여름\n");
+		printf("수행: 수영을 한다");
+		break;
+	case 68:
+	case 100:
+		printf("계절: 가을\n");
+		printf("수행: 추수를 한다");
+		break;
+	case 70:
+	case 102:
+		printf("계절: 겨울\n");
+		printf("수행: 스키를 탄다");
+		break;
+	default:
+		printf("허용되지 않은 알파벳입니다.\n");
+		printf("알파벳 대소문자 구별 없이 A, S, D, F만 허용합니다.\n");
+		printf("프로그램을 다시 시작하세요.");
+		return 0;
+	}
+}
