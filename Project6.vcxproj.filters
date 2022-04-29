@@ -144,6 +144,21 @@
     <ClCompile Include="백준 1085.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="7주차 1번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7주차 2번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7주차 3번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7주차 4번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7주차 5번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="6.2 코드업 1070.c">
