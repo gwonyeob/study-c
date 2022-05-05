@@ -159,6 +159,15 @@
     <ClCompile Include="7주차 5번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="c프로그래밍 과제 연원일 입력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1부터 n까지 by for.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1부터 n까지 by while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="6.2 코드업 1070.c">
