@@ -3,15 +3,16 @@ int main()
 {
 	int num = 0;
 	int sum = 0;
+	int count = 1;
 one: //goto로 back
 	printf("정수값 입력: ");
 	scanf_s("%d", &num);
 	if (num > 0)
 	{
-		for (int i = 1; i <= num; i++)
-		{
-			sum += i;
-		}
+		do {
+			sum += count;
+			count++;
+		} while (count < num + 1);
 		printf("1부터 %d까지 누적 합계는 %d", num, sum);
 	}
 	else if (num < 0)

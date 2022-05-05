@@ -8,11 +8,11 @@ int main()
 	{
 reset:
 		printf("<%dÈ¸ ½ÇÇà>\n", count);
-		for (int i = 9; i > 1; i--)
+		for (int i = 9; i > 0; i--)
 		{
 			for (int j = 9; j > 1; j--)
 			{
-				printf("%d x %d = %d\n", i, j, i * j);
+				printf("%d x %d = %d   ", j, i, i * j);
 			}
 			printf("\n");
 		}

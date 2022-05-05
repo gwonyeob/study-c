@@ -168,6 +168,18 @@
     <ClCompile Include="1부터 n까지 by while.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="7주차 과제 2번 피보나치 망한거.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7주차 과제 3번 별 피라미드.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7주차 과제 4번 10진수 2진수로 변환.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7주차 과제 2번 피보나치.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="6.2 코드업 1070.c">
