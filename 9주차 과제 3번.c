@@ -46,11 +46,12 @@ void gugudan()
 	printf("출력할 단 입력: ");
 	scanf_s("%d", &dan);
 	printf("< %d단 >", dan);
-		for (i = 1; i<=9; i--)
-		{
-			printf("%d x %d = %05d: 바깥쪽 for문 (%d)일 때, 안쪽 for문 (%d)", dan, i,  i * dan, dan, i);
-		}
+	printf("\n");
+	for (i = 1; i <= 9; i++)
+	{
+		printf("%d x %d = %05d: 바깥쪽 for문 (%d)일 때, 안쪽 for문 (%d)", dan, i, i * dan, dan, i);
 		printf("\n");
+	}
 }
 int main()
 {
