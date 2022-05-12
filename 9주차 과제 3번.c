@@ -89,13 +89,16 @@ reinput:
 		{
 		case 'Y':
 		case 'y':
-			printf("다시 실행!\n");
+			printf("\n");
+			break;
 		case 'N':
 		case 'n':
-			printf("프로그램 %d 수행 후 종료", num);
+			printf("프로그램 %c 수행 후 종료", num);
 			return 0;
+			break;
 		default:
 			goto reinput;
+			break;
 		}
 	}
 }
