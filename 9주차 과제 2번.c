@@ -1,45 +1,18 @@
 #include<stdio.h>
-void hanoi(int n, char from, char tmp, char to)
+void div(unsigned int n)
 {
-	if (n == 1)
-	{
-		printf("원판 1: %c => %c로 이동\n", from, to);
-	}
+	if (n < 2)
+		printf("%d", n);
 	else
 	{
-		hanoi(n - 1, from, to, tmp);
-		printf("원판 %d: %c => %c로 이동\n", n, from, to);
-		hanoi(n - 1, tmp, from, to);
+		div(n / 2);
+		printf("%d", n % 2);
 	}
 }
 int main()
 {
-	char c = { 0 };
-	printf("[ 탑의 원판 이동하는 함수 호출]\n");
-	hanoi(3, 'A', 'B', 'C');
-	printf("\n");
-	printf("원판을 모두 이동하였습니다.\n");
-	while (1)
-	{
-		printf("프로그램을 다시 실행하겠습니까? (Y/N):  ");
-		scanf_s("%c", &c);
-		getchar();
-		switch (c)
-		{
-		case 'Y':
-		case 'y':
-			printf("[ 탑의 원판 이동하는 함수 호출]\n");
-			hanoi(3, 'A', 'B', 'C');
-			printf("\n");
-			printf("원판을 모두 이동하였습니다.\n");
-			break;
-		case 'N':
-		case 'n':
-			printf("프로그램을 종료합니다.");
-			return 0;
-
-		default:
-			continue;
-		}
-	}
+	unsigned int num = 0;
+	printf("입력: ");
+	scanf_s("%d", &num);
+	div(num);
 }

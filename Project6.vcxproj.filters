@@ -189,13 +189,49 @@
     <ClCompile Include="8주차 과제 3번 정수 기억 프로그램.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="9주차 과제 1번 아마도.c">
+    <ClCompile Include="9주차 1번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9주차 2번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9주차 3번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9주차 과제 1번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="9주차 과제 2번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="9주차 과제 3번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10주차 1번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10주차 2번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10주차 3번 외부 함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10주차 3번 내부 함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10주차 과제 2번 내부함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10주차 과제 2번 외부함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10주차 과제 1번 내부함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10주차 과제 1번 외부함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10주차 과제 3번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

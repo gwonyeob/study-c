@@ -13,7 +13,7 @@ void p(float num)
 int main()
 {
 	float num = 0;
-	char c = { 0 }; //선택 입력받을 변수/
+	char c = { 0 }; //선택 입력받을 변수
 	while (1)
 	{
 		printf("A. 인치를 센티미터로 환산하는 프로그램\n");
