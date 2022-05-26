@@ -234,6 +234,15 @@
     <ClCompile Include="10주차 과제 3번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11주차 과제 1번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11주차 과제 2번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11주차 과제 3번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="6.2 코드업 1070.c">
