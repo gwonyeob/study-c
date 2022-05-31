@@ -234,13 +234,13 @@
     <ClCompile Include="10주차 과제 3번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="11주차 과제 1번.c">
+    <ClCompile Include="11주차 1번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="11주차 과제 2번.c">
+    <ClCompile Include="11주차 2번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="11주차 과제 3번.c">
+    <ClCompile Include="11주차 3번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
