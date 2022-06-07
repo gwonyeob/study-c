@@ -24,52 +24,7 @@
     <ClCompile Include="2주차 문자열 출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1023.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1045.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1046.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="2주차 triple division.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="성적 출력.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1123.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 2884.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 2525.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 2480 by 삼향 연산자.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 2480 by max.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="코드업 1068.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 11021.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 10951.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 2438.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 2439 별찍기.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준1110 더하기 사이클.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="0.컴파일용 소스코드.c">
@@ -99,7 +54,7 @@
     <ClCompile Include="5장 프로그래밍 문제 3번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="5장 프로그래밍 문제 ㅇㅁㅇ.c">
+    <ClCompile Include="5장 프로그래밍 문제 4번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="5장 프로그래밍 문제 1번.c">
@@ -138,12 +93,6 @@
     <ClCompile Include="6.1 코드업 1207.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="백준 3053번.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="백준 1085.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="7주차 1번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -160,15 +109,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="c프로그래밍 과제 연원일 입력.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1부터 n까지 by for.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1부터 n까지 by while.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="7주차 과제 2번 피보나치 망한거.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="7주차 과제 3번 별 피라미드.c">

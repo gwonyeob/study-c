@@ -23,5 +23,5 @@ int main()
         }
     }
     printf("\n"); //줄 바꿈
-    printf("1부터 %d까지 이상한 피보나치 수열의 합은 %d입니다", n, sum);
+    printf("합: %d", sum);
 }

@@ -29,7 +29,7 @@ void shopkeeper(int cash)
 	if (cash >= 0)
 		printf("%d\t\t\t\t", cash);
 	else
-		printf("\t\t%d\t\t", cash);
+		printf("\t\t%d\t\t", -cash);
 	balance += cash;
 	printf("%d\n", balance);
 }
